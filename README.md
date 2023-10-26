@@ -1,5 +1,3 @@
-# Handwritten-Digit-Recognition
-Multiclass classification using neural network to recognize handwritten digit
 
 # Handwritten Digit Recognition with Neural Networks
 
